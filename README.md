@@ -1,0 +1,3 @@
+BookBuddy is a full-stack web application designed to help users manage their personal book collections. Built with React on the frontend, Node.js and Express for the backend, and MongoDB for data storage, the application allows users to add, track, and organize their books. Features include the ability to categorize books, mark them as "read" or "to-read," and rate or review them. Users can also search for books, filter by genres, and view detailed book information. The app provides a seamless, user-friendly experience for book lovers to keep track of their reading journey and discover new titles.
+
+This project demonstrates full-stack development skills and is designed to help users easily manage and share their book collection.
